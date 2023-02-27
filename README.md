@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 ` 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Bruno `
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Bandikyu)](https://github.com/Bandikyu/github-contribution-stats/)
 
 <!--
 **Bandikyu/Bandikyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
